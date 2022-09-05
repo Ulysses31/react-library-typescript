@@ -1,5 +1,5 @@
 {
-  "name": "@Ulysses31/template-react-component-library",
+  "name": "@Ulysses31/react-library-typescript",
   "version": "1.0.0",
   "description": "A simple template for a custom React component library",
   "publishConfig": {
